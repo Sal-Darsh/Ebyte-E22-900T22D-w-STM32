@@ -1,0 +1,10 @@
+../Core/Src/main.c:37:5:_write	3
+../Core/Src/main.c:50:6:get_timestamp_string	1
+../Core/Src/main.c:98:5:main	3
+../Core/Src/main.c:177:6:SystemClock_Config	3
+../Core/Src/main.c:223:6:HAL_UART_TxCpltCallback	2
+../Core/Src/main.c:240:6:HAL_UARTEx_RxEventCallback	2
+../Core/Src/main.c:254:13:main_e22_transceiverMode	1
+../Core/Src/main.c:262:13:main_e22_configurationMode	1
+../Core/Src/main.c:271:13:main_lora_packet_receive	1
+../Core/Src/main.c:290:6:Error_Handler	1
